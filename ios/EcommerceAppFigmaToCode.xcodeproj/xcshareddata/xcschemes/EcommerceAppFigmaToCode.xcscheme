@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "online_clothes.app"
-               BlueprintName = "online_clothes"
-               ReferencedContainer = "container:online_clothes.xcodeproj">
+               BuildableName = "Online_Clothes.app"
+               BlueprintName = "Online_Clothes"
+               ReferencedContainer = "container:Online_Clothes.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "online_clothesTests.xctest"
-               BlueprintName = "online_clothesTests"
-               ReferencedContainer = "container:online_clothes.xcodeproj">
+               BuildableName = "Online_ClothesTests.xctest"
+               BlueprintName = "Online_ClothesTests"
+               ReferencedContainer = "container:Online_Clothes.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "online_clothes.app"
-            BlueprintName = "online_clothes"
-            ReferencedContainer = "container:online_clothes.xcodeproj">
+            BuildableName = "Online_Clothes.app"
+            BlueprintName = "Online_Clothes"
+            ReferencedContainer = "container:Online_Clothes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "online_clothes.app"
-            BlueprintName = "online_clothes"
-            ReferencedContainer = "container:online_clothes.xcodeproj">
+            BuildableName = "Online_Clothes.app"
+            BlueprintName = "Online_Clothes"
+            ReferencedContainer = "container:Online_Clothes.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,4 +1,4 @@
-package com.online_clothes
+package com.Online_Clothes
 
 import android.app.Application
 import com.facebook.react.PackageList
